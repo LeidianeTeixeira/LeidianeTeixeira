@@ -4,7 +4,7 @@ I'm system analyst in training. Passionate about artificial intelligence and kno
 
 :books: Knowledge is power, never stop learning!
 
-Things I like to do:
+Things I like to develop:
 
 - :snake: Python Applications
 - :computer: Machine Learning Aplications
