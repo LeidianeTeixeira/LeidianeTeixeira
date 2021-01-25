@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Leidiane Teixeira. Welcome to my Github, Nice to meet you !👋
 
 <!--
 **LeidianeTeixeira/LeidianeTeixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
