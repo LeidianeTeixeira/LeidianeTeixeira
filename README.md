@@ -3,6 +3,8 @@
 <!--
 **LeidianeTeixeira/LeidianeTeixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I'm system analyst in training. Passionate about knowledge, I'm trying to discover the area of technology to dedicate myself to. Passionate about artificial intelligence I have dedicated myself to learning * python, machine learning and web development*.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
