@@ -9,3 +9,7 @@ Things I like to do:
 - :snake: Python Applications
 - :computer: Machine Learning Aplications
 - 🖥 Web Applications
+
+**Contato**
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/leidianeteixeira/)
