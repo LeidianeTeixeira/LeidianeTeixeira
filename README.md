@@ -2,10 +2,10 @@
 
 I'm system analyst in training. Passionate about artificial intelligence and knowledge, I have dedicated myself to learning * python, machine learning and web development*. Feel free to explore!
 
-:star2: Knowledge is power, never stop learning!
+:books: Knowledge is power, never stop learning!
 
 Things I like to do:
 
-- 🖥 Python Applications
+- :snake: Python Applications
 - :computer: Machine Learning Aplications
-- 📱 Web Applications
+- 🖥 Web Applications
