@@ -1,6 +1,6 @@
 ### Hi, I'm Leidiane. Welcome to my Github, Nice to meet you !👋
 
-I'm system analyst in training. Passionate about artificial intelligence and knowledge, I have dedicated myself to learning *python, machine learning and web development*. Feel free to explore!
+I'm a system analyst. Passionate about artificial intelligence, I have dedicated myself to learning *python, machine learning*. Feel free to explore!
 
 :books: Knowledge is power, never stop learning!
 
