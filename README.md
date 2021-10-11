@@ -8,7 +8,6 @@ Things I like to develop:
 
 - :snake: Python Applications
 - :computer: Machine Learning Aplications
-- 🖥 Web Applications
 
 **Contato**
 
