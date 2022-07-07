@@ -8,7 +8,7 @@ In my repository you will find web projects, machine learning projects, projects
 
 Things I like to develop:
 
-***- :snake: Python Applications
+//- :snake: Python Applications
 - :computer: Machine Learning Aplications***
 
 **Contato**
