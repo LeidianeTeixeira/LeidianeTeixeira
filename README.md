@@ -6,10 +6,10 @@ In my repository you will find web projects, machine learning projects, projects
 
 :books: Knowledge is power, never stop learning!
 
-Things I like to develop:
+#Things I like to develop:
 
-//- :snake: Python Applications
-- :computer: Machine Learning Aplications***
+#- :snake: Python Applications
+#- :computer: Machine Learning Aplications***
 
 **Contato**
 
